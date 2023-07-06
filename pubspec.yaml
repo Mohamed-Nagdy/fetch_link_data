@@ -1,7 +1,7 @@
 name: fetch_link_data
 description: Fetch All URLs Metadata Anytime Any Website
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Mohamed-Nagdy/fetch_link_data
 
 environment:
   sdk: ^3.0.1
