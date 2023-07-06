@@ -1,6 +1,6 @@
 name: fetch_link_data
-description: Fetch All URLs Metadata Anytime Any Website
-version: 1.0.0
+description: Fetch all URL data such as title , description , image , video ... etc . and it's written in pure dart so you can use it any where you need ^_^
+version: 1.0.1
 repository: https://github.com/Mohamed-Nagdy/fetch_link_data
 
 environment:
